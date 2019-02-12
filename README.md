@@ -160,3 +160,23 @@ IT WAS not the most powerful launch ever seen at the Kennedy Space Cemtre’s Pa
 Elon Musk, the founder of SpaceX, the firm which built the Falcon Heavy, had been frank about the possibility that the launch might fail, possibly spectacularly. The prospect of fireworks helped to entice the biggest crowd of spectators at Cape Canaveral since the heyday of the Space Shuttle, and an audience of half a million to a live webcast.
 
 ...
+
+>进入git项目的本地文件夹，将自己的项目复制到这个git 文件夹，查看状态，提交所有的新文件
+
+>git status 
+
+>git add -A
+
+>git commit -a -m"first commit"
+
+>3.上传更新到git 版本库
+
+>git push
+
+
+>git add -A  提交所有变化
+
+>git add -u  提交被修改(modified)和被删除(deleted)文件，不包括新文件(new)
+
+>git add .  提交新文件(new)和被修改(modified)文件，不包括被删除(deleted)文件
+
